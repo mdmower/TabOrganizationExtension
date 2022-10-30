@@ -2,7 +2,7 @@
 
 One new command is exposed:
 
-- `Tools.TabOrganization`
+- `Tools.SortDocumentTabs`
   - Sort visible document tabs in active window
   - Default shortcut: CTRL+R, CTRL+S
 
